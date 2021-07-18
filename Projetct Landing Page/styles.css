@@ -1,0 +1,32 @@
+body{
+	background: url('Imagens/fundo.png');
+	background: #000000	;
+	font: 16px Arial, Helvetica, sans-serif;
+	background-clip: blue;
+}
+
+
+#principal{
+	border: 1px solid;
+	width: 100%;
+}
+
+a{
+	color: 4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.riscado{
+	color: red ;
+}
+.text{
+	background-color: black;
+  	 color: white;
+}
+
+table{
+	width= "50%";
+	border= "1";
+}
